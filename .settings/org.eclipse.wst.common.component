@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="ECGlab">
+        <wb-resource deploy-path="/Web" source-path="/Web" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <wb-resource deploy-path="/resource" source-path="/resource"/>
+        <wb-resource deploy-path="/Python" source-path="/Python"/>
+        <property name="context-root" value="ECGlab"/>
+        <property name="java-output-path" value="/ECGlab/build/classes"/>
+    </wb-module>
+</project-modules>
