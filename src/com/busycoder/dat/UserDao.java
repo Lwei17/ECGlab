@@ -1,4 +1,4 @@
-package com.busycoder.dao;
+package com.busycoder.dat;
 
 public class UserDao {
 
